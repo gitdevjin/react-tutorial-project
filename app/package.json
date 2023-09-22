@@ -1,7 +1,7 @@
 {
   "name": "04tut",
   "version": "0.1.0",
-  "homepage": "https://gitdevjin.github.io/react-deploy-gh",
+  "homepage": "https://gitdevjin.github.io/react-tutorial-project",
   "private": true,
   "dependencies": {
     "axios": "^1.5.0",
